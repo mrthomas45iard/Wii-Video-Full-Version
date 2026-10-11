@@ -231,4 +231,4 @@ This repository serves as the official landing page for Wii Video. The software 
 **Get the most recent version of Wii Video today!**
 
 ---
-**Last updated:** 2026-10-11 11:08:00 UTC
+**Last updated:** 2026-10-11 17:04:11 UTC
